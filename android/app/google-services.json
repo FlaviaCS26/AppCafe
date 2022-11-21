@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803585236818",
+    "firebase_url": "https://cafegourmet-b40f9-default-rtdb.firebaseio.com",
+    "project_id": "cafegourmet-b40f9",
+    "storage_bucket": "cafegourmet-b40f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803585236818:android:9d9a365a4b94d98a2da48b",
+        "android_client_info": {
+          "package_name": "com.cafeGourmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803585236818-ah5idkoj11hdasj8cs3kout2aqj6aqfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2s61wlf4EYAalJXqODJsO7qv18-eTVqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803585236818-ah5idkoj11hdasj8cs3kout2aqj6aqfi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "803585236818-jhtot05t4lv7dpqjmfdd0ip4rgrusefn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cafeGourmet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

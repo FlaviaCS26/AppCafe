@@ -1,0 +1,115 @@
+{
+    "Produtos": [
+        {
+            "codigo": "cafe_expresso",
+            "descricao": "Expresso",
+            "imagem": "https://firebasestorage.googleapis.com/v0/b/cafegourmet-b40f9.appspot.com/o/expresso.png?alt=media&token=e29e650f-5f91-496c-88c9-6162e9c25270",
+            "recomendacao": 3.0,
+            "categoria": "Café",
+            "valores": [
+                {
+                    "descricao": "P",
+                    "valor": 4.99
+                },
+                {
+                    "descricao": "M",
+                    "valor": 5.99
+                },
+                {
+                    "descricao": "G",
+                    "valor": 6.99
+                }
+            ]
+        },
+        {
+            "codigo": "cafe_cappuccino",
+            "descricao": "Cappuccino",
+            "imagem": "https://firebasestorage.googleapis.com/v0/b/cafegourmet-b40f9.appspot.com/o/cappuccino.png?alt=media&token=96d17ec2-8b34-4dbd-a002-742ddaf117d4",
+            "recomendacao": 4.0,
+            "categoria": "Café",
+            "valores": [
+                {
+                    "descricao": "P",
+                    "valor": 9.99
+                },
+                {
+                    "descricao": "M",
+                    "valor": 10.99
+                },
+                {
+                    "descricao": "G",
+                    "valor": 11.99
+                }
+            ]
+        },
+        {
+            "codigo": "bolo_chocolate",
+            "descricao": "Chocolate",
+            "imagem": "https://firebasestorage.googleapis.com/v0/b/cafegourmet-b40f9.appspot.com/o/bolo_chocolate.png?alt=media&token=96e76e5f-4129-4b26-8d6f-1197f456eed6",
+            "recomendacao": 4.0,
+            "categoria": "Bolo",
+            "valores": [
+                {
+                    "descricao": "100G",
+                    "valor": 6.99
+                },
+                {
+                    "descricao": "250G",
+                    "valor": 9.99
+                },
+                {
+                    "descricao": "500G",
+                    "valor": 12.99
+                }
+            ]
+        },
+        {
+            "codigo": "cookie_classico",
+            "descricao": "Clássico",
+            "imagem": "https://firebasestorage.googleapis.com/v0/b/cafegourmet-b40f9.appspot.com/o/cookie.png?alt=media&token=3e11b1a6-5db4-4ac7-bbbc-ff05b0fcf933",
+            "recomendacao": 4.0,
+            "categoria": "Cookie",
+            "valores": [
+                {
+                    "descricao": "U",
+                    "valor": 5.99
+                }
+            ]
+        }
+    ],
+    "Categorias": [
+        {
+            "descricao": "Café",
+            "icone": "0xf0f4"
+        },
+        {
+            "descricao": "Bolo",
+            "icone": "0xf1fd"
+        },
+        {
+            "descricao": "Cookie",
+            "icone": "0xf563"
+        }
+    ],
+    "Promoções": [
+        {
+            "urlImage": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/modern-coffee-shop-discount-voucher-design-template-6a8bd66cd1331b2aa49f0172f53d448d_screen.jpg?ts=1589184238"
+        },
+        {
+            "urlImage": "https://videohive.img.customer.envatousercontent.com/files/356226285/Preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=07aef9ffde2bb5ba0a34989d0ac73520"
+        },
+        {
+            "urlImage": "https://previews.123rf.com/images/maryaros/maryaros2002/maryaros200200007/139702733-promotion-set-of-posters-or-flyers-template-design-for-cafe-with-coffee-cups-illustrations-buy-one-g.jpg"
+        }
+    ],
+    "FormasPagamento": [
+        {
+            "descricao": "Pix",
+            "icone": "0xe43a_b"
+        },
+        {
+            "descricao": "Dinheiro",
+            "icone": "0xf53a_s"
+        }
+    ]
+}
